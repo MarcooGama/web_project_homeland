@@ -1,0 +1,99 @@
+.intro {
+  margin-top: 92px;
+  margin-bottom: 92px;
+  margin-left: 148px;
+  margin-right: 302px;
+}
+
+.intro__title {
+  max-width: 830px;
+  width: 100%;
+  font-family: "Inter";
+  font-style: normal;
+  font-size: 54px;
+  font-weight: 900;
+  line-height: 54px;
+  margin: auto auto 40px auto;
+  color: #ffffff;
+}
+
+.intro__text-quote {
+  max-width: 738px;
+  width: 100%;
+  font-family: "Inter";
+  font-style: normal;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 34px;
+  margin: auto 96px auto auto;
+  color: #ffffff;
+}
+
+.intro__text-author {
+  max-width: 732px;
+  width: 100%;
+  font-family: "Inter";
+  font-style: normal;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 34px;
+  text-align: right;
+  margin: 10px 98px auto auto;
+  color: #ffffff;
+}
+
+.intro__text-paragraph {
+  max-width: 722px;
+  width: 100%;
+  font-family: "Inter";
+  font-style: normal;
+  font-size: 16px;
+  font-weight: 400px;
+  line-height: 163%;
+  margin: 32px 108px 92px auto;
+  color: #ffffff;
+}
+
+@media screen and (max-width: 768px) {
+  .intro {
+    margin-right: 24px;
+    margin-left: 24px;
+  }
+
+  .intro__title {
+    font-size: 45px;
+    line-height: 49px;
+    margin: auto auto 50px auto;
+  }
+
+  .intro__text-author {
+    margin: auto;
+  }
+
+  .intro__text-paragraph {
+    max-width: 720px;
+    margin: 32px auto 88px auto;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .intro {
+    margin: 64px 16px 64px 16px;
+  }
+
+  .intro__title {
+    font-size: 32px;
+    line-height: 35px;
+    margin-bottom: 40px;
+  }
+
+  .intro__text-quote {
+    font-size: 24px;
+    line-height: 30px;
+    margin-bottom: 10px;
+  }
+
+  .intro__text-author {
+    margin-bottom: 32px;
+  }
+}
