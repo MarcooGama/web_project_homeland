@@ -1,4 +1,5 @@
 🎨 De Pátria para Pátria
+
 📖 Descrição
 
 Este projeto foi desenvolvido como parte da Sprint 5 do bootcamp da TripleTen.
@@ -6,17 +7,27 @@ O objetivo foi criar uma página web totalmente responsiva utilizando HTML5 e CS
 
 O projeto inclui:
 
-Estrutura semântica em HTML com header, main e footer.
-Seções com conteúdo baseado no protótipo do Figma.
-Uso de tipografias externas (Inter e Noto Serif).
-Adaptação do design para telas de 1280px, 768px e 320px.
+Estrutura semântica em HTML com header, main e footer;
+
+Seções desenvolvidas de acordo com o protótipo do Figma;
+
+Tipografias externas Inter e Noto Serif;
+
+Layout adaptado para telas de 1280px, 768px e 320px;
+
+Aplicação de sombras, gradientes e efeitos de hover para aprimorar o design visual.
 
 🛠️ Tecnologias
+
 HTML5
+
 CSS3 (BEM, Flexbox e Grid)
+
 Normalize.css
+
 Google Fonts (Inter e Noto Serif)
 
-✅ Finalizado e pronto para revisão.
+✅ Status: Finalizado e pronto para revisão.
+🌐 GitHub: https://github.com/MarcooGama
 
-✨ Desenvolvido com dedicação por Marco Gama
+✨ Desenvolvido com dedicação por Marco Gama.

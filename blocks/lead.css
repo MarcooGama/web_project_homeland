@@ -5,7 +5,7 @@
 .lead__title {
   max-width: 720px;
   width: 100%;
-  font-family: "inter-black";
+  font-family: "inter-black", sans-serif;
   font-style: normal;
   font-weight: 900;
   font-size: 96px;
