@@ -16,6 +16,6 @@
 
 @import url(../blocks/footer.css);
 
-@import url(../blocks/grid-container.css);
+@import url(../blocks/grid.css);
 
-@import url(../blocks/content-places.css);
+@import url(../blocks/places.css);
